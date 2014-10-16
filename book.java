@@ -23,9 +23,7 @@ public class book {
     public void setname(String name) {
         this.name =name;
     }
-    public String getauthorid() {
-        return authorid;
-    }
+
     public void setauthorid(String authorid) {
     	this.authorid = authorid;
     }
