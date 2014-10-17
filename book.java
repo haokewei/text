@@ -14,9 +14,7 @@ public class book {
     public String gettittle() {
         return tittle;
     }
-    public void settittle(String tittle) {
-        this.tittle = tittle;
-    }
+
     public String getname() {
         return name;
     }
