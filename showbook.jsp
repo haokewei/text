@@ -1,4 +1,4 @@
-<%@ page language="java" import="java.util.*"contentType="text/html;charset=gb2312"%>
+﻿<%@ page language="java" import="java.util.*"contentType="text/html;charset=gb2312"%>
 <%
 String path = request.getContextPath();
 String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
@@ -33,4 +33,4 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
     </center>
   </body>
-</html>
+
